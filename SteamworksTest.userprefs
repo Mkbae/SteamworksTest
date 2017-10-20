@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{749416E7-BE6E-DE8B-DCF4-41A6B36CE45B}|단위 테스트">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Steamworks/SteamManager.cs">
+    <Files>
+      <File FileName="Assets/Steamworks/SteamScript.cs" Line="12" Column="3" />
+      <File FileName="Assets/Steamworks/SteamManager.cs" Line="100" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
